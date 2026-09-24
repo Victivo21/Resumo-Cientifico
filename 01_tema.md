@@ -7,36 +7,36 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: Vinicius Conceição Alves; Bruno Tadeu Marques Martins Filho; Victor dos Santos Costa; Felipe Avelino da Silva
+- Data: 24/09/2026
 
 ## Preenchimento
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+Impacto Social da Tecnologia
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+Impacto Social das Inteligencias Artificiais nas Industrias
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo:Impacto Social da Tecnologia
+- Objeto estudado: Inteligências Artificiais nas Industrias
+- Contexto ou aplicação: Impactos positivos/negativos da IA nas industrias, o uso correto e como elas atuam 
+- Aspecto que será analisado: O desempenho da IA nas resoluções de problemas e na administração das industrias 
+- O que ficará fora do estudo: Os desafios na implementação da IA 
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+Com o lançamento de chats e agentes de IA para facilitar a vida de trabalhadores, comércios e estudantes, temos em mente que existe um uso correto da mesma em diferentes áreas. O uso correto pode gerar benefícios, melhorar produtividade, organização e a tomada de decisões dentro das indústrias, mas também pode modificar funções, substituir um cargo e criar dependências no uso da mesma. Analisar os impactos positivos e negativos da IA é fundamental para compreender as consequências do uso incorreto para os trabalhadores e para a sociedade.
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? Sim
+- O tema pode ser estudado no prazo? Sim
+- O grupo possui acesso às fontes necessárias? Sim
 
 ## Produto da etapa
 
@@ -44,14 +44,17 @@ Tema delimitado e justificativa.
 
 ## Checklist
 
-- [ ] O tema é específico.
-- [ ] O tema é relevante.
-- [ ] O tema é viável.
-- [ ] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [ X ] O tema é específico.
+- [ X ] O tema é relevante.
+- [ X ] O tema é viável.
+- [ X ] O recorte está claro.
+- [  ] O tema foi validado pelo professor.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+|Bruno Tadeu| Pesquisa e escrita |
+|Victor dos Santos Costa| Pesquisa escrita |
+|Vinícius Conceição| Pesquisa e preenchimento de dados no formulário |
+|Felipe Avelino| Pesquisa e filtragem de dados |
