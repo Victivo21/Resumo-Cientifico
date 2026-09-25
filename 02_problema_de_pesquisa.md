@@ -6,19 +6,19 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+Impacto Social das Inteligencias Artificiais nas Industrias
 
 ## Pergunta de pesquisa
 
-`[Escreva uma única pergunta.]`
+Como IA contribui para o desenvolvimento da indústria? 
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? `[preencher]`
-- Qual é o objeto da pergunta? `[preencher]`
-- Qual é o contexto ou recorte? `[preencher]`
-- A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
-- Por que essa pergunta é relevante? `[preencher]`
+- O que se deseja descobrir ou compreender? Forma de uso da IA no meio industrial 
+- Qual é o objeto da pergunta? Saber como as IA's contribuem para as industrias 
+- Qual é o contexto ou recorte? Contribuição na organização e agilidade no meio industrial 
+- A pergunta pode ser respondida por artigos científicos? Sim, existem diversos exemplos do uso adequado das IA's no meio industrial.
+- Por que essa pergunta é relevante? Para entender como as IA's ajudaram no desenvolvimento no meio industrial 
 
 ## Produto da etapa
 
@@ -26,14 +26,17 @@ Pergunta de pesquisa aprovada.
 
 ## Checklist
 
-- [ ] Está escrita em forma de pergunta.
-- [ ] É clara e objetiva.
-- [ ] Está alinhada ao tema.
-- [ ] Pode ser respondida por revisão bibliográfica.
-- [ ] Não exige experimento que não será realizado.
+- [X] Está escrita em forma de pergunta.
+- [X] É clara e objetiva.
+- [X] Está alinhada ao tema.
+- [X] Pode ser respondida por revisão bibliográfica.
+- [X] Não exige experimento que não será realizado.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+|Bruno Tadeu| Pesquisa e escrita |
+|Victor dos Santos Costa| Pesquisa escrita |
+|Vinícius Conceição| Pesquisa e preenchimento de dados no formulário |
+|Felipe Avelino| Pesquisa e filtragem de dados |
