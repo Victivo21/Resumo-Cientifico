@@ -23,7 +23,7 @@ Analisar como o uso das Inteligências Artificiais contribui para o desenvolvime
 
 | Elemento | Texto |
 |---|---|
-| Problema |Como IA contribui para o desenvolvimento da indústria? |
+| Problema |A falta de atualização de tecnologia nas industrias |
 | Objetivo geral | Analisar como o uso das Inteligências Artificiais contribui para o desenvolvimento das indústrias, considerando seus impactos sociais, econômicos e profissionais.|
 | Resultado esperado |Coompreender como o uso das Inteligências Artificiais contribui para o desenvolvimento das indústrias, considerando seus impactos sociais, econômicos e profissionais. |
 
