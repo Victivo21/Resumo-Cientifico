@@ -11,26 +11,26 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * Referência completa: YU, Abraham Sin Oih; NARDY, André; HIRANO, Heloiza Izumi; OLIVEIRA, Jefferson Freitas Amancio de; RIBEIRON, Nathan de Vasconcelos; GRANDO, Nei. Tomada de decisão nas organizações: o que muda com a Inteligência Artificial? *Estudos Avançados*, São Paulo, v. 38, n. 111, p. 327-348, 2024.
 * DOI ou URL: https://doi.org/10.1590/s0103-4014.202438111.017
 * Base de origem: SciELO / Revista Estudos Avançados – Universidade de São Paulo (USP).
-* Leitor responsável: [Seu nome]
-* Data da leitura: [01/10/2026]
+* Leitor responsável: Victor dos Santos Costa e Bruno Tadeu
+* Data da leitura: [03/10/2026]
 
 ## Fichamento
 
 ### Problema investigado
 
-A pesquisa busca compreender de que modo a Inteligência Artificial vem sendo integrada aos processos decisórios corporativos, identificando os tipos de decisões apoiadas por essa tecnologia, os setores organizacionais em que ela é mais recorrente e os níveis hierárquicos atingidos, sejam eles estratégicos, táticos ou operacionais.
+A pesquisa fala sobre a IA e como ela vem sendo inserida nos trabalhos e na sociedade como meio de decidir o que fazer em algumas situações. Com isso, conseguimos identificar os principais erros no uso e na falta de controle em relação a dependência.
 
 ### Objetivo do estudo
 
-Mapear a colaboração da Inteligência Artificial nos processos decisórios das empresas, identificando as modalidades de decisões apoiadas pela tecnologia e as áreas funcionais nas quais sua utilização apresenta maior ocorrência.
+Separar e organizar o uso da IA nas empresas, fábricas e indústrias, identificando como deve-se separar corretamente o uso da dependência da mesma.
 
 ### Método utilizado
 
-O estudo utiliza uma abordagem baseada no levantamento e na análise de dados secundários. Foram examinados 128 casos de aplicação de Inteligência Artificial no ambiente empresarial, buscando categorizar seus diferentes usos nos processos de tomada de decisão.
+O artigo usa de uma abordagem baseada em leitura e estudo de dados, pesquisas, análises, etc.
 
 ### Contexto, amostra ou dados
 
-O estudo reúne 128 casos de aplicação de Inteligência Artificial em organizações de diferentes áreas. Os dados demonstram uma concentração significativa das aplicações nos setores de Marketing e Operações, com predominância de intervenções relacionadas ao nível operacional.
+Os dados mostram uma concentração grande no uso das IA's nos setores de Marketing e Operações, com grandes índices de interferências relacionadas ao nível opercional.
 
 ### Principais resultados
 
