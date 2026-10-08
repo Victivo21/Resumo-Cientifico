@@ -52,7 +52,7 @@ A principal força do estudo está na utilização de evidências provenientes d
 
 > "A Inteligência Artificial (IA) está presente em diversos setores da economia e funções dentro das organizações"
 
-Página: 327
+Página: 22
 
 ## Checklist
 
@@ -118,7 +118,7 @@ O principal mérito do artigo está em abordar os possíveis efeitos sociais da 
 
 > "A pergunta de partida consiste em se saber se as tecnologias de gestão de pessoal, que utilizam a inteligência artificial, estão a influenciar a reprodução de assédio moral nas relações de trabalho."
 
-Página: 45
+Página: 1
 
 ## Checklist
 
