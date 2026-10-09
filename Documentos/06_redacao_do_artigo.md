@@ -8,15 +8,15 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 # Título
 
-`[Título claro e coerente com o tema]`
+Impacto das Inteligências Artificiais nas Industrias Atuais 
 
 ## Palavras-chave
 
-`[palavra 1]; [palavra 2]; [palavra 3]`
+Inteligência Artificial , Industria, Impacto 
 
 ## Introdução
 
-`[Apresente contexto, foco, problema ou lacuna, justificativa e objetivo.]`
+Hoje em dia, as IA's estão transformando diversos setores das industrias. Com o avanço tecnológico, as empresas começaram a utilizar sistemas inteligentes para automatizar diversos processos, com o intuído de aumentar a produtividade, reduzir custo e na melhora da qualidade dos produtos e serviços. A aplicação de Inteligências Artificiais nas industrias permite, por exemplo, identificar problemas nas maquinas, previsão de problemas, analise de dados e auxilio na tomada de decisão. 
 
 ## Metodologia
 
