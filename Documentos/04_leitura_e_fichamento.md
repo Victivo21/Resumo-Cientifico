@@ -107,11 +107,11 @@ O artigo não apresenta dados que permitam mensurar *exatamente* a ocorrência d
 
 ### Contribuição para o nosso artigo
 
-O estudo amplia a discussão sobre os impactos sociais da IA ao demonstrar que o uso dessas tecnologias podem criar dependências e abuso do uso das IA's.
+O estudo contribuiu para ampliar na discussão sobre os impactos sociais da IA ao demonstrar e destacar que o uso dessas tecnologias podem criar dependências e abuso no uso excessivo da ferramenta de IA.
 
 ### Comentário crítico
 
-O principal mérito do artigo aborda os possíveis impactos sociais do uso das IA's na gestão de pessoas e questionar a ideia de neutralidade dos sistemas algorítmicos.
+O principal merito do artigo e na abortagem de possiveis impactos sociais na utilização de IA's na gestão de pessoas, além de abrir o questionamento de que o sistemas algorítmicos são completamente neutros 
 
 ### Citação literal opcional
 
@@ -177,13 +177,13 @@ O estudo ajuda diretamente na análise dos impactos sociais da IA nas indústria
 
 ### Comentário crítico
 
-O principal foco do artigo está na associação entre o desenvolvimento tecnológico, direitos fundamentais e jurídicos. A discussão oferece diferentes perspectivas que complementam os estudos que analisam a IA diretamente sob os aspectos econômicos.
+O foco principal do artigo e nas relações entre os avanços tecnologicos e na proteção dos direitos fundamentais e juricos da nossa sociedade atual. O texto aborda principalmente diversas diferenças que contribuem para complemntar a pesquisas que costumas estudar as IA's, principalmente pelas perspectivas econômicas, juricas e sociais 
 
 ### Citação literal opcional
 
-"O presente artigo se propõe a discutir os impactos da inteligência artificial nas relações de trabalho, enfatizando a importância da regulamentação para a proteção dos direitos trabalhadores."
+“E, no campo das corporações, são inúmeros os benefícios apregoados pelo uso da IA, como os que seguem: [...] aumento da automação; redução de erros, de riscos e de custos operacionais [...] (Feliciano; Silva, 2022, p. 29)."
 
-Página: 135
+Página: 7
 
 ## Checklist
 
