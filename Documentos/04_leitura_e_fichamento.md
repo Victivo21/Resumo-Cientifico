@@ -11,8 +11,8 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * Referência completa: YU, Abraham Sin Oih; NARDY, André; HIRANO, Heloiza Izumi; OLIVEIRA, Jefferson Freitas Amancio de; RIBEIRON, Nathan de Vasconcelos; GRANDO, Nei. Tomada de decisão nas organizações: o que muda com a Inteligência Artificial? *Estudos Avançados*, São Paulo, v. 38, n. 111, p. 327-348, 2024.
 * DOI ou URL: https://doi.org/10.1590/s0103-4014.202438111.017
 * Base de origem: SciELO / Revista Estudos Avançados – Universidade de São Paulo (USP).
-* Leitor responsável: Victor dos Santos Costa e Bruno Tadeu
-* Data da leitura: [03/10/2026]
+* Leitor: Victor dos Santos Costa e Bruno Tadeu
+* Data da pesquisa: [03/10/2026]
 
 ## Fichamento
 
@@ -34,25 +34,26 @@ Os dados mostram uma concentração grande no uso das IA's nos setores de Market
 
 ### Principais resultados
 
-Os resultados indicam que a Inteligência Artificial atua predominantemente como ferramenta de suporte à tomada de decisão, sem eliminar completamente a participação humana. As áreas de Marketing e Operações destacam-se como principais usuárias da tecnologia. O estudo também identifica uma reconfiguração dos processos decisórios, com redistribuição de papéis e responsabilidades entre profissionais e sistemas algorítmicos.
+Os resultados mostram que a IA atua muito como ferramenta de suporte e utilizam muito nas tomadas de decisões, mas também sem eliminar a participação das pessoas. As áreas de Marketing e Operações se destacam como principais usuários. O nosso estudo também mostra uma reconfiguração do uso na tomada de decisões.
 
 ### Limitações apresentadas
 
-Por utilizar principalmente dados secundários, o estudo não constitui uma pesquisa de campo abrangente nem um experimento direto. Os autores caracterizam a pesquisa como preliminar/piloto, de modo que seus resultados não podem ser generalizados automaticamente para todos os setores econômicos.
+Por usar dados secundários, o nosso estudo não usa uma pesquisa de campo abrangente nem um experimento direto. Os autores colocam a pesquisa como "piloto", então os resultados não podem ser generalizados para todos os setores e empresas.
 
 ### Contribuição para o nosso artigo
 
-O estudo contribui para a análise do impacto social da Inteligência Artificial nas indústrias ao demonstrar que seus efeitos ultrapassam a questão do desemprego tecnológico. A IA também modifica os fluxos de trabalho, os processos de tomada de decisão, a distribuição de responsabilidades e a relação entre trabalhadores e sistemas tecnológicos.
+O estudo ajuda na análise do impacto social da IA nas indústrias ao mostrar que seus efeitos passam a questão do desemprego tecnológico. A IA também modifica o fluxo do trabalho, a tomada de decisão, na organização, etc.
 
 ### Comentário crítico
 
-A principal força do estudo está na utilização de evidências provenientes de 128 casos concretos, permitindo observar diferentes formas de aplicação da Inteligência Artificial nas organizações. Também é relevante a abordagem da IA como ferramenta de apoio e colaboração, e não apenas como substituta do trabalho humano. Como fragilidade, a utilização de dados secundários e o caráter preliminar da pesquisa limitam a generalização dos resultados para todos os segmentos econômicos.
+A principal fonte do estudo ta na utilização de pesquisas e dados. Também é importante a abordagem da IA como uma ferramenta de pesquisa para separar pesquisas possíveis para utilização no nosso trabalho, por exemplo, pedimos fontes pela IA e lemos o que está em cada fonte, criando um resumo completo e mais nichado na área, ou seja, não usamos a IA para substituir o trabalho humano!
+
 
 ### Citação literal opcional
 
-> "A Inteligência Artificial (IA) está presente em diversos setores da economia e funções dentro das organizações"
+"A Inteligência Artificial está presente em diversos setores da economia e funções dentro das organizações"
 
-Página: 22
+Página: 327
 
 ## Checklist
 
@@ -61,8 +62,6 @@ Página: 22
 * [x] As limitações foram registradas.
 * [x] A conexão com o tema foi explicada.
 * [x] Toda citação literal contém página.
-
----
 
 # Etapa 4 Leitura e fichamento
 
@@ -77,48 +76,48 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * Referência completa: PALMEIRA SOBRINHO, Zéu. A Inteligência Artificial (IA) e assédio moral nas relações de trabalho. *Revista FIDES*, v. 14, n. 1, p. 45-57, 2023.
 * DOI ou URL: https://revistafides.ufrn.br/index.php/br/article/view/658
 * Base de origem: Revista FIDES – Universidade Federal do Rio Grande do Norte (UFRN).
-* Leitor responsável: [Seu nome]
-* Data da leitura: [01/10/2026]
+* Leitor: Felipe Avelino
+* Data da leitura: [02/10/2026]
 
 ## Fichamento
 
 ### Problema investigado
 
-O artigo analisa se as ferramentas tecnológicas utilizadas na gestão de recursos humanos por meio da Inteligência Artificial podem contribuir para o surgimento ou intensificação de situações de assédio moral no ambiente de trabalho, considerando as consequências da automatização das decisões para os trabalhadores.
+O artigo analisa se as ferramentas tecnológicas podem ajudar para o surgimento de situação de assédio moral no ambiente de trabalho, ou seja, ajuda a identificar consequências da automatização das decisões para os trabalhadores.
 
 ### Objetivo do estudo
 
-Examinar as consequências da utilização de modelos automatizados de tomada de decisão nas relações trabalhistas e sociais, especialmente em relação às possíveis repercussões sobre práticas de assédio moral e sobre a proteção dos trabalhadores.
+Examinar as consequências da utilização da IA na tomada de decisões no trabalho e socialmente.
 
 ### Método utilizado
 
-O estudo apresenta uma abordagem teoricopolítica, fundamentada em levantamento bibliográfico e revisão documental sobre sistemas automatizados de tomada de decisão, gestão algorítmica e seus possíveis efeitos nas relações de trabalho.
+O estudo mostra uma abordagem com dados e teoria.
 
 ### Contexto, amostra ou dados
 
-A pesquisa está inserida no contexto da expansão da gestão algorítmica e da utilização da Inteligência Artificial na administração de recursos humanos. Trata-se de uma investigação bibliográfica e documental, sem utilização de amostra estatística ou entrevistas de campo.
+A pesquisa está inserida no contexto da expansão da gestão algorítmica e no uso da Inteligência Artificial na administração dos recursos humanos. 
 
 ### Principais resultados
 
-O trabalho aponta que a ausência de fiscalização e governança sobre decisões automatizadas pode favorecer a reprodução de vieses discriminatórios e situações de abuso nas relações de trabalho. O estudo também defende a implementação de mecanismos institucionais de controle e supervisão dos sistemas utilizados na gestão de pessoas.
+O trabalho mostra que a falta de fiscalização sobre as decisões pode favorecer as situações de abuso nas relações de trabalho. O estudo também defende a inclusão de mecanismos institucionais de controle e supervisão dos sistemas.
 
 ### Limitações apresentadas
 
-Por possuir caráter predominantemente teórico e normativo, o artigo não apresenta dados empíricos de campo que permitam mensurar quantitativamente a ocorrência de assédio moral relacionada ao uso de algoritmos nas relações de trabalho.
+O artigo não apresenta dados que permitam mensurar *exatamente* a ocorrência de assédio moral relacionada ao uso de IA nas relações de trabalho.
 
 ### Contribuição para o nosso artigo
 
-O estudo amplia a discussão sobre os impactos sociais da Inteligência Artificial ao demonstrar que a adoção dessas tecnologias pode produzir consequências que ultrapassam os ganhos de produtividade e eficiência. A pesquisa contribui para discutir questões relacionadas à dignidade dos trabalhadores, aos direitos trabalhistas, aos riscos de discriminação algorítmica e à necessidade de supervisão dos sistemas automatizados.
+O estudo amplia a discussão sobre os impactos sociais da IA ao demonstrar que o uso dessas tecnologias podem criar dependências e abuso do uso das IA's.
 
 ### Comentário crítico
 
-O principal mérito do artigo está em abordar os possíveis efeitos sociais da automação na gestão de pessoas e questionar a ideia de neutralidade dos sistemas algorítmicos. A discussão contribui para ampliar a análise sobre responsabilidade e governança tecnológica. Entretanto, a ausência de dados empíricos limita a possibilidade de verificar quantitativamente os fenômenos apresentados.
+O principal mérito do artigo aborda os possíveis impactos sociais do uso das IA's na gestão de pessoas e questionar a ideia de neutralidade dos sistemas algorítmicos.
 
 ### Citação literal opcional
 
-> "A pergunta de partida consiste em se saber se as tecnologias de gestão de pessoal, que utilizam a inteligência artificial, estão a influenciar a reprodução de assédio moral nas relações de trabalho."
+"A pergunta de partida consiste em se saber se as tecnologias de gestão de pessoal, que utilizam a inteligência artificial, estão a influenciar a reprodução de assédio moral nas relações de trabalho."
 
-Página: 1
+Página: 45
 
 ## Checklist
 
@@ -143,46 +142,46 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * Referência completa: BARROS, Álefe Saraiva; CONCEIÇÃO, Lucas Nunes; RODRIGUES, Vanessa Rocha Ferreira. O impacto da Inteligência Artificial nas relações de trabalho: uma análise jurídica e reflexões sobre o futuro do trabalho. *Revista Direito, Políticas Públicas e Desenvolvimento na Amazônia*, edição especial, p. 135-153, 2024.
 * DOI ou URL: https://periodicos.cesupa.br/index.php/RJCESUPA/article/view/264
 * Base de origem: Revista Jurídica do CESUPA – Centro Universitário do Estado do Pará.
-* Leitor responsável: [Seu nome]
-* Data da leitura: [01/10/2026]
+* Leitor Bruno Tadeu
+* Data da leitura: [03/10/2026]
 
 ## Fichamento
 
 ### Problema investigado
 
-O artigo analisa as transformações provocadas pela Inteligência Artificial nas relações de trabalho e os impactos da automação sobre os trabalhadores, questionando a capacidade do ordenamento jurídico vigente de garantir proteção social diante do avanço tecnológico.
+O artigo analisa o uso da IA nas relações de trabalho e os impactos da mesma nos trabalhos.
 
 ### Objetivo do estudo
 
-Discutir as implicações da Inteligência Artificial nas relações de trabalho no contexto da Indústria 4.0, abordando temas como discriminação algorítmica, automação de funções, proteção jurídica dos trabalhadores e necessidade de parâmetros regulatórios atualizados.
+Discutir as consequências do uso da IA no trabalho e aborta temas como discriminação algorítmica, proteção jurídica dos trabalhadores e necessidade de regulamentações atualizadas.
 
 ### Método utilizado
 
-O estudo utiliza uma abordagem teórico-normativa, baseada na análise conceitual da Indústria 4.0 e da Inteligência Artificial, juntamente com a revisão da legislação trabalhista e da doutrina jurídica relacionada à proteção dos trabalhadores.
+O estudo usa uma abordagem teórica com dados, baseada na análise conceitual do uso da IA nas indústrias e empresas, juntamente com a revisão da Legislação trabalhista.
 
 ### Contexto, amostra ou dados
 
-O estudo está inserido no contexto da Quarta Revolução Industrial e da crescente automação das cadeias produtivas. Por apresentar caráter predominantemente doutrinário e normativo, não utiliza amostras quantitativas, entrevistas de campo ou métricas de mercado.
+O estudo está inserido no contexto da Quarta Revolução Industrial, ou seja, industria 4.0, questões de automação, entre outros.
 
 ### Principais resultados
 
-O artigo aponta que o avanço da Inteligência Artificial exige adaptações nos mecanismos jurídicos de proteção dos trabalhadores. Entre as principais questões discutidas estão os riscos de discriminação algorítmica, a automação de funções e a necessidade de preservar os direitos fundamentais e a dignidade humana nas relações de trabalho.
+O artigo aponta que o avanço da IA exige adaptações nos mecanismos de proteção dos trabalhadores.
 
 ### Limitações apresentadas
 
-Por apresentar uma abordagem predominantemente teórica e normativa, o estudo não fornece dados quantitativos ou pesquisas de campo que permitam mensurar diretamente a dimensão das transformações provocadas pela Inteligência Artificial nos diferentes setores industriais.
+Por apresentar uma abordagem mais teórica, o estudo não fornece dados específicos ou pesquisas de campo que permitam mensurar especificamente o tamanho das transformações geradas pelas IA's nos diferentes setores industriais.
 
 ### Contribuição para o nosso artigo
 
-O estudo contribui diretamente para a análise dos impactos sociais da Inteligência Artificial nas indústrias ao relacionar a evolução tecnológica à Indústria 4.0 e à proteção dos direitos trabalhistas. A pesquisa demonstra que a transformação tecnológica envolve não apenas produtividade e eficiência, mas também questões éticas, sociais e jurídicas relacionadas às condições de trabalho.
+O estudo ajuda diretamente na análise dos impactos sociais da IA nas indústrias, empresas, fábricas, etc, ao relacionar a evolução tecnológica e a proteção dos direitos trabalhistas.
 
 ### Comentário crítico
 
-A principal contribuição do artigo está na associação entre desenvolvimento tecnológico, direitos fundamentais e regulamentação jurídica. A discussão oferece uma perspectiva complementar aos estudos que analisam a Inteligência Artificial exclusivamente sob os aspectos econômico e tecnológico. Como limitação, a ausência de dados empíricos dificulta a mensuração da frequência e da intensidade dos problemas discutidos nos diferentes setores industriais.
+O principal foco do artigo está na associação entre o desenvolvimento tecnológico, direitos fundamentais e jurídicos. A discussão oferece diferentes perspectivas que complementam os estudos que analisam a IA diretamente sob os aspectos econômicos.
 
 ### Citação literal opcional
 
-> "O presente artigo se propõe a discutir os impactos da inteligência artificial nas relações de trabalho, enfatizando a importância da regulamentação para a proteção dos direitos trabalhadores."
+"O presente artigo se propõe a discutir os impactos da inteligência artificial nas relações de trabalho, enfatizando a importância da regulamentação para a proteção dos direitos trabalhadores."
 
 Página: 135
 
