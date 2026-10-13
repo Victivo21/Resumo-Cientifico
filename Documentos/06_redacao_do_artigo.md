@@ -19,7 +19,7 @@ As transformações vindas da Quarta Revolução Industrial trouxeram a Intelig�
 
 ## Metodologia
 
-Foi utilizado para o presente trabalho a metodologia de estudo de Pesquisa Literaria 
+Foi utilizada a metodologia de pesquisa bibliográfica, baseada na análise de artigos científicos relacionados aos impactos da Inteligência Artificial nas relações de trabalho e nas indústrias.
 
 ## Revisão da literatura
 
