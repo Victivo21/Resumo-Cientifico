@@ -12,7 +12,7 @@ Impacto das Inteligências Artificiais nas Industrias Atuais
 
 ## Palavras-chave
 
-Inteligência Artificial , Industria, Impacto 
+Inteligência Artificial; Relações de Trabalho; Automação
 
 ## Introdução
 As transformações vindas da Quarta Revolução Industrial trouxeram a Inteligência Artificial  para o centro das atenções nos meios organizacionais, jurídicos e sociais. A ampliação do uso de algoritmos, aprendizagem de máquinas  e sistemas de automação reformularam processos produtivos, rotinas de gestão e dinâmicas de tomada de decisão, levantando questionamentos críticos sobre a preservação dos direitos trabalhistas, o controle sociopolítico da automação e a segurança da informação. Diante desse cenário, a questão central que guia esta análise foca em compreender de que maneira a implementação de decisões baseadas em Inteligências Artificiais impacta no mercado de trabalho, a gestão corporativa e os direitos fundamentais dos trabalhadores. O objetivo geral deste estudo é examinar os desdobramentos operacionais, normativos e éticos decorrentes da automação algorítmica, comparando diferentes perspectivas da literatura contemporânea.
